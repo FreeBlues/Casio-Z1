@@ -1,0 +1,36 @@
+#
+# Z-1/FX-890Pエミュレータ 設定ファイル
+#
+
+# ROMイメージのあるディレクトリ
+rom_dir	./rom
+
+# RAMイメージのフルパス名
+ram_path	./
+
+# キー
+trace	f12
+off	escape
+=	-
+brk	pause
+menu	f1
+cal	f2
+sqrt	1
+x2	2
+eng	end
+cls	home
+log	3
+ln	4
+degr	5
+sin	6
+cos	7
+tan	8
+mr	9
+m+	0
+ans	pageup
+ee	pagedown
+srch	f3
+in	f4
+out	f5
+calc	f6
+allreset	f8
